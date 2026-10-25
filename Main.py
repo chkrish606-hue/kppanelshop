@@ -32,10 +32,11 @@ from aiogram.types import (
 # ==============================================================================
 # 1. BOT CONFIGURATION & CONSTANTS
 # ==============================================================================
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-BOT_USERNAME = "YOUR_BOT_USERNAME"
-ADMIN_ID = YOUR_ADMIN_ID
-ADMIN_CONTACT = "YOUR_USERNAME"
+BOT_TOKEN = "8880713882:AAFa6lR37QN2HoomFHBgENd7ZmV6GS9ilJ8
+"
+BOT_USERNAME = "KP_PANEL_SHOP"
+ADMIN_ID = 8187648516
+ADMIN_CONTACT = "@krishcheat001"
 
 # --- FAMGATEWAY (famgateway.in) AUTO PAYMENT ---
 # Get your key (sk_live_...) from https://famgateway.in/dashboard.php
